@@ -1,4 +1,4 @@
-#Omni Retail – Sales Performance & Customer Insights Dashboard
+# Omni Retail – Sales Performance & Customer Insights Dashboard
 
 End-to-end retail analytics project leveraging PostgreSQL and Power BI. Transforms raw, non-tabular sales data into a structured dataset, applies advanced SQL (CTEs, window functions, aggregations) for business analysis, and delivers an interactive dashboard highlighting revenue trends, customer behavior, returns, and operational insights.
 
