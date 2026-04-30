@@ -7,4 +7,4 @@ This project enhanced my hands-on experience in data cleaning, analytics, and bu
 ![Dashboard Screenshot](https://github.com/bornalyghosh/Omni-Retail/blob/main/Omni1.png)
 ![Dashboard Screenshot](https://github.com/bornalyghosh/Omni-Retail/blob/main/Omni2.png)
 ![Dashboard Screenshot](https://github.com/bornalyghosh/Omni-Retail/blob/main/omni3.png)
-![Dashboard Screenshot](https://github.com/bornalyghosh/Omni-Retail/blob/main/omnir.png)
+
